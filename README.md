@@ -2,13 +2,49 @@
 
 A modern, responsive food delivery application built with React, mimicking the popular Swiggy platform. This project features a sleek UI, restaurant listings, menu browsing, cart management, and more.
 
-## 🚀 Live Demo
 
-*Add your deployed link here*
+## 📸 App Navigation Flow & Screenshots
 
-## 📸 Screenshots
+> A visual walkthrough of how users navigate through the Swiggy Clone App:
 
-*Add screenshots of your application here*
+---
+
+### 🏠 Home Page  
+📍 _Landing screen with banners, categories, and restaurants_ 
+
+![Home Page](src/Screenshots/HomePage.png)
+
+---
+
+### 🧭 Food Delivery card (Category or List View)  
+📍 _Filtered restaurants based on category or search_  
+➡️ Click a **Food Delivery card** ➝ goes to **Restaurants Page**
+
+![Food Delivery card](src/Screenshots/RoutingPage.png)
+
+---
+
+### 🏬 Restaurants Page (All Restaurants)  
+📍 _Displays a list of all available restaurants like Pizza Hut, KFC, Burger King, etc._  
+➡️ Click a **restaurant card** ➝ goes to Food Page where this restaurant's food items are shown
+
+![Restaurants Page](src/Screenshots/RestaurantsPage.png)
+
+---
+
+### 🍽️ Food Page (Selected Items in Detail)  
+📍 _User selects a restaurant (e.g., KFC, Pizza Hut) ➝ lands here to view all available food items from that restaurant_  
+➡️ Click **“Go to Cart”** ➝ navigates to **Cart Page**
+
+![Food Page](src/Screenshots/FoodPage.png)
+
+---
+
+### 🛒 Cart Page (Final Checkout)  
+📍 _Final screen showing all selected items, prices, and checkout option_
+
+![Cart Page](src/Screenshots/CartPage.png)
+
 
 ## 🛠️ Tech Stack
 
