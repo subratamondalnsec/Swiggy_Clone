@@ -1,4 +1,4 @@
-# 🍔 Swiggy Clone - Food Delivery App
+# 🍔 Swiggy Clone - Food Delivery WebApp
 
 A modern, responsive food delivery application built with React, mimicking the popular Swiggy platform. This project features a sleek UI, restaurant listings, menu browsing, cart management, and more.
 
